@@ -8,7 +8,7 @@
 	reqs = list(
 		/datum/reagent/consumable/cream = 5,
 		/datum/reagent/consumable/ice = 5,
-		/obj/item/food = 1
+		/obj/item/food/icecream = 1 //me when I add /icecream to the code//
 	)
 	result = /obj/item/food/icecreamsandwich
 	subcategory = CAT_ICE
